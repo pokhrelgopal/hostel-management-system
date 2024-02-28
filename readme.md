@@ -14,7 +14,7 @@ Welcome to the Hostel Management System project! This is a simple application de
 
 - **Frontend:** React with Vite (port: 5173)
 - **Backend:** Django REST Framework
-- **Database:** SQLite (default for Django development, can be replaced with other databases like PostgreSQL or MySQL for production)
+- **Database:** PostgreSQL (can be replaced with other databases like MySQL if you want.)
 - **UI Framework:** Tailwind CSS (optional, can be replaced with other CSS frameworks or custom styles)
 
 ## Getting Started
